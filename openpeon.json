@@ -1,0 +1,332 @@
+{
+  "cesp_version": "1.0",
+  "name": "silicon_valley",
+  "display_name": "Silicon Valley (HBO)",
+  "version": "2.0.0",
+  "author": {
+    "name": "rustam",
+    "github": "fortunto2"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en,ru",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/ThisGuyFucks.mp3",
+          "label": "This guy fucks! (Russ)",
+          "sha256": "fb01b967a4acbd6d0cca6f01279608e41f77a2ba14b3bebc3c5853950885fee7"
+        },
+        {
+          "file": "sounds/FounderOfAviato.mp3",
+          "label": "I'm the founder of Aviato (Erlich)",
+          "sha256": "5feb59dd691fe2a936757e430796900f1d272655850988da309c4fff4d3ae7ad"
+        },
+        {
+          "file": "sounds/ThreeCommaClub.mp3",
+          "label": "Three Comma Club! (Russ)",
+          "sha256": "553a846a6db8a27131f96a0bd54067749509c3995c54949179ccb735d8ab7f32"
+        },
+        {
+          "file": "sounds/09_ya_vernus.mp3",
+          "label": "Я вернусь",
+          "sha256": "7bc6785811e6ae19f06019fdd1ab6a9e6dd8079358e4dfa27d956428ff8fb1db"
+        },
+        {
+          "file": "sounds/13_dobro_pozhalovat.mp3",
+          "label": "Добро пожаловать в долину",
+          "sha256": "c968afa1fe03c53d9ac7b9c5c520bc8951124778eefcde503aea6ca0a3d83414"
+        },
+        {
+          "file": "sounds/19_otlichno_do_vstrechi.mp3",
+          "label": "Отлично, до встречи",
+          "sha256": "4105bde6405ca2255459e5c1800fd41503e92b0ba849a8db8babbb3a718c289e"
+        },
+        {
+          "file": "sounds/novyy_internet.mp3",
+          "label": "Новый интернет (Ричард)",
+          "sha256": "897aee00dca2d5f968fda29a8f069f866df07d66bc1575030b55444792542e9f"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/ILikeIt.mp3",
+          "label": "I like it. (Gilfoyle)",
+          "sha256": "4e804e8fb3690d90ef709a02a834720154bc1995552bcb9cc5176220c6b4d030"
+        },
+        {
+          "file": "sounds/ThreeCommas.mp3",
+          "label": "Three commas. (Russ)",
+          "sha256": "2f183c9e6db3cf5b45345872ed905e4f99bbff38725606c852afe446bb523355"
+        },
+        {
+          "file": "sounds/15_vot_imenno.mp3",
+          "label": "Вот именно (Гилфойл)",
+          "sha256": "17b106ecc98b024e9b49ecf277086f4b6335b0ac59430be3f7323566ccb92a5a"
+        },
+        {
+          "file": "sounds/16_poshel_poshel.mp3",
+          "label": "Пошёл-пошёл-пошёл",
+          "sha256": "8bc6583c32db5b1c952f4ef0b8168e117425d1f16c15349edc3ed97b5965d1c3"
+        },
+        {
+          "file": "sounds/posledneye_slovo.mp3",
+          "label": "Это моё последнее слово (Ричард)",
+          "sha256": "19fb87a0abb957769c9ac61cacb444aa23cd8468bed6383dd64b866dbeeba9a3"
+        },
+        {
+          "file": "sounds/rok_zvezda.mp3",
+          "label": "Я рок-звезда (Эрлих)",
+          "sha256": "647ac35fc0bac7794c0e74003773bf87fbc2917ab8ccf0eaf2b62d9cbb2ff0f3"
+        },
+        {
+          "file": "sounds/ne_usnu.mp3",
+          "label": "Не усну пока не закончу (Ричард)",
+          "sha256": "66ac404c2dfcce4e63e1fb2d7216df287b2fa7095c26f667b9912171ce6e8752"
+        },
+        {
+          "file": "sounds/ya_reshil.mp3",
+          "label": "Я решил, слышишь (Ричард)",
+          "sha256": "ca81c3d5b4bd903a5373625d05bf776e64e101d478e25cd41401e61fb38b55f2"
+        },
+        {
+          "file": "sounds/progloti_gordost.mp3",
+          "label": "Проглоти свою гордость",
+          "sha256": "3213355241c8b673df2c68854aec87ec4c3de7fdd2fb3116163ea77b977c0a59"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/ThatsWhatIDo.mp3",
+          "label": "That's what the fuck I do. (Gilfoyle)",
+          "sha256": "ee6cc9c4853e33da7bfdc2e74dd84707672e854d25cde4b1218d5bc378538e36"
+        },
+        {
+          "file": "sounds/RadioOnInternet.mp3",
+          "label": "Radio on the Internet! (Russ)",
+          "sha256": "2b3de1891f573e9f82efac966af980c5d4edc2e7b8216179a88e70aacff2dfc6"
+        },
+        {
+          "file": "sounds/KissMyPiss.mp3",
+          "label": "Kiss my piss! (Erlich)",
+          "sha256": "4cb557518cd5cce2958d7517d1fb0599903cb3bfdfa77dc990fdd9b9735ad292"
+        },
+        {
+          "file": "sounds/06_potryasayushche.mp3",
+          "label": "Потрясающе",
+          "sha256": "ba1dd06ee882db3ca33b0d37856febe2422f72831d5fe73772c4272c28e21a9b"
+        },
+        {
+          "file": "sounds/08_otlichno_otlichno.mp3",
+          "label": "Отлично, отлично",
+          "sha256": "1b4373f03004c887efc2e26936f5009ba7ede48c6a77e087a7e230167b606a2a"
+        },
+        {
+          "file": "sounds/20_chertovski_prav.mp3",
+          "label": "Ты чертовски прав",
+          "sha256": "ed786231557be5554d185c1d6c25f50732b5f4346049416f1e556dd8e742265d"
+        },
+        {
+          "file": "sounds/zaebs.mp3",
+          "label": "Заебись (Эрлих)",
+          "sha256": "e53ccc72614e225e7e3fbab601cbc56072b8e5de25c65c7119c72cebd29ace55"
+        },
+        {
+          "file": "sounds/vopros_zakryt.mp3",
+          "label": "Вопрос закрыт (Ричард)",
+          "sha256": "6a8b99c2ebae09c52a0135d8b5a8ff79f4591f36371086cf01fbfc71064b059a"
+        },
+        {
+          "file": "sounds/pobeditel.mp3",
+          "label": "Победитель с большим отрывом",
+          "sha256": "74b5110bc24702d98d3e075db82b2e52eecfe70cba02cc1c55eb1bb8b5213348"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/WhatAtrocity.mp3",
+          "label": "What is that atrocity? (Erlich)",
+          "sha256": "31559116004505a23d829e4d1905ae532c92be23a29b0289c11dc2b712ebaf79"
+        },
+        {
+          "file": "sounds/HolyShit.mp3",
+          "label": "Holy shit. (Gilfoyle)",
+          "sha256": "34ad896691c36174dd140c6f44d3a91749e276e17593d39bcb7099583e1cae20"
+        },
+        {
+          "file": "sounds/WtfWasThat.mp3",
+          "label": "What the fuck was that? (Gilfoyle)",
+          "sha256": "bd17a7b0103c5850c125c14294b9d29511cf6e2ece31d4f46b4362ca51e5a08b"
+        },
+        {
+          "file": "sounds/01_yobushki_vorobushki.mp3",
+          "label": "Ёбушки-воробушки (Эрлих)",
+          "sha256": "239e57194f8d1cfb89ac5a8a28519e202c82bda1212399dc52a5c11ce7f32823"
+        },
+        {
+          "file": "sounds/02_yobushki_russ.mp3",
+          "label": "Ёбушки-воробушки (Расс)",
+          "sha256": "96426d39f14c347670592c93879f816e553bd62f05160ba9719f1b0f2c027abb"
+        },
+        {
+          "file": "sounds/03_ni_figa_sebe.mp3",
+          "label": "Ни фига себе (Ричард)",
+          "sha256": "5a2b638a95b938e972aef62c0b05a2bc27a296e9d7d28f0979c4505026782bb8"
+        },
+        {
+          "file": "sounds/04_proektu_konets.mp3",
+          "label": "Проекту конец",
+          "sha256": "04a3a40ce0fbd4d5ae49e6bcddf1f26f9191a5d6e8f555b05e4e5d76cd24bcb6"
+        },
+        {
+          "file": "sounds/05_nu_vot_opyat.mp3",
+          "label": "Ну вот опять (Динеш)",
+          "sha256": "a443af46a64564231c7286e24221fa4951c88c79c75ab3260fb34ab618399c23"
+        },
+        {
+          "file": "sounds/14_chert_poberi.mp3",
+          "label": "Чёрт побери",
+          "sha256": "25a834c8b1d90118da7174d551253d53b5d909d9e632dab127278f05c364338f"
+        },
+        {
+          "file": "sounds/ne_mozhet_byt.mp3",
+          "label": "Не может быть (Ричард)",
+          "sha256": "144a81e1646db0d1ff59d147d53837bcaeed0dd8b43e4902e278d01085b63b3c"
+        },
+        {
+          "file": "sounds/eto_bred.mp3",
+          "label": "Это бред (Ричард)",
+          "sha256": "e89541a5a953427f66ee7d629039e5826c8e2f83297c0888ee92803362da6998"
+        },
+        {
+          "file": "sounds/menya_uvolili.mp3",
+          "label": "Меня уволили",
+          "sha256": "faebdaf7be20691af96006954a944ace0c4937e0466f3ad0257272f1477e9bbf"
+        },
+        {
+          "file": "sounds/yob_tvoyu_mat.mp3",
+          "label": "Ёб твою мать",
+          "sha256": "54ece1cb3c6dfd39b5fc71c350e91a8e0cc0021acd4b06163307fc7cf7f0d1ed"
+        },
+        {
+          "file": "sounds/hrenovaya_ideya.mp3",
+          "label": "Хреновая идея (Ричард)",
+          "sha256": "9e7a239b373409e75288d0af2aa8dad9ced47cd7cde20d4a23b4855fa8f3b266"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/YourMom.mp3",
+          "label": "Hello Eric Bachman, this is your mom. (Jian Yang)",
+          "sha256": "a5f2f15d45a46f031371b388b19488ae3ee5067e3cc4cc770efbe31536e4ac65"
+        },
+        {
+          "file": "sounds/EricIsDead.mp3",
+          "label": "Eric Bachman is a dead. (Jian Yang)",
+          "sha256": "1c84ec45032b55dad4bd3994cc63441fac6260e45b04f145d2dd9406e4c32efd"
+        },
+        {
+          "file": "sounds/NotGonnaRead.mp3",
+          "label": "I'm not gonna read it. (Gilfoyle)",
+          "sha256": "41e5af589581e5fc5ebc466da2a1fd279cf55807f00f958baf93274b77e62125"
+        },
+        {
+          "file": "sounds/11_v_dushe_ne_ebu.mp3",
+          "label": "В душе не ебу (Эрлих)",
+          "sha256": "c66315b4a9d7764fa6c225436187a219b7d881c28ef65749f454b39678b8988c"
+        },
+        {
+          "file": "sounds/chto_proishodit.mp3",
+          "label": "Что происходит",
+          "sha256": "ccc9f59565146bab425834baf9271ce187bf945201e0d98d3b91f1c56b255f30"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/DoorsOfBillionaire.mp3",
+          "label": "These are not the doors of a billionaire. (Russ)",
+          "sha256": "b2350f06ec613c094a8e9ada08b276053099ab5ecdb950d7e00799a54e853e73"
+        },
+        {
+          "file": "sounds/MyIncubatorNow.mp3",
+          "label": "This is my incubator now. (Jian Yang)",
+          "sha256": "e10bee21876d1e4b7b4cf74fb0a0a2cc43efe7df0fc99ef0b24e4fea13956b7a"
+        },
+        {
+          "file": "sounds/12_ne_milliarder.mp3",
+          "label": "Я больше не миллиардер (Расс)",
+          "sha256": "22de4dd2114312f80988b7cdc37075358edffccfdc856035a172b2c57a1e1730"
+        },
+        {
+          "file": "sounds/17_polozhenie_hrenovoe.mp3",
+          "label": "Положение хреновое",
+          "sha256": "b058da6d692a1e8844ce906c735cbe41ef474645649b301f90a00056ed876c29"
+        },
+        {
+          "file": "sounds/18_nevezukha_zarazna.mp3",
+          "label": "Невезуха заразна",
+          "sha256": "c5560e8bc16c8d0bc8388c6ea2e4acf1079ca297482b30d8655692a8a5b41b06"
+        },
+        {
+          "file": "sounds/ne_seychas.mp3",
+          "label": "Давайте не сейчас (Ричард)",
+          "sha256": "0d5a347e1649d8a7b9e40159fe6ae98931fefb3a9ad1c72a6a62bb1ddcf91cfd"
+        },
+        {
+          "file": "sounds/ne_po_sebe.mp3",
+          "label": "Мне как-то не по себе (Ричард)",
+          "sha256": "9fb085d84d81a201c6449588022da249cc08b868163d8087187283628b193412"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/FuckMyself.mp3",
+          "label": "I've been known to fuck myself. (Erlich)",
+          "sha256": "8fcf74fc9da48754099337fcefbb8d039e2eecf22fdf10fa5d7e00ed0e395591"
+        },
+        {
+          "file": "sounds/PissShitFight.mp3",
+          "label": "You just brought piss to a shit fight. (Erlich)",
+          "sha256": "0c4fbe368df6ea97434ee8a061faa39835cd93a3e866bb8bdf977cb963bb20e6"
+        },
+        {
+          "file": "sounds/07_govnyuk.mp3",
+          "label": "Говнюк",
+          "sha256": "983f3b405e57dd54ea20ace1e3b65ef1949513361281359caf844283b6c69507"
+        },
+        {
+          "file": "sounds/10_bednoe_mudachyo.mp3",
+          "label": "Бедное мудачьё (Гилфойл)",
+          "sha256": "9214f4a1988d09a37e283edef2539eea6a11b0719e9f4848f39d9015306037d8"
+        },
+        {
+          "file": "sounds/nahuy_poshyol.mp3",
+          "label": "Нахуй пошёл (Эрлих)",
+          "sha256": "f3c4eeb20809580842e5c0144dc3f61421d03433dc4e24a328c58af8d6ef9050"
+        },
+        {
+          "file": "sounds/da_mne_nasrat.mp3",
+          "label": "Да мне насрать (Эрлих)",
+          "sha256": "03ea524c3818f5a38b871ffe4fa8de5435d46886a8e50215622f30015649ad57"
+        },
+        {
+          "file": "sounds/chyo_tvorish.mp3",
+          "label": "Ты чё творишь (Эрлих)",
+          "sha256": "c6d14da8e23b77835ea054a8a4146b4cc8dccd1b588f47146c4461fcc20cca5f"
+        }
+      ]
+    }
+  }
+}
