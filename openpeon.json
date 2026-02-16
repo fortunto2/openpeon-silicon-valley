@@ -56,6 +56,16 @@
           "file": "sounds/09_ya_vernus.mp3",
           "label": "Я вернусь",
           "sha256": "7bc6785811e6ae19f06019fdd1ab6a9e6dd8079358e4dfa27d956428ff8fb1db"
+        },
+        {
+          "file": "sounds/16_poshel_poshel.mp3",
+          "label": "Пошёл-пошёл-пошёл",
+          "sha256": "8bc6583c32db5b1c952f4ef0b8168e117425d1f16c15349edc3ed97b5965d1c3"
+        },
+        {
+          "file": "sounds/ne_usnu.mp3",
+          "label": "Не усну пока не закончу (Ричард)",
+          "sha256": "66ac404c2dfcce4e63e1fb2d7216df287b2fa7095c26f667b9912171ce6e8752"
         }
       ]
     },
@@ -159,6 +169,21 @@
           "file": "sounds/19_otlichno_do_vstrechi.mp3",
           "label": "Отлично, до встречи",
           "sha256": "4105bde6405ca2255459e5c1800fd41503e92b0ba849a8db8babbb3a718c289e"
+        },
+        {
+          "file": "sounds/ILikeIt.mp3",
+          "label": "I like it. (Gilfoyle)",
+          "sha256": "793932aff701dd11e05670b48b2173cbc42b30dc877e97c114935073303be141"
+        },
+        {
+          "file": "sounds/15_vot_imenno.mp3",
+          "label": "Вот именно (Гилфойл)",
+          "sha256": "17b106ecc98b024e9b49ecf277086f4b6335b0ac59430be3f7323566ccb92a5a"
+        },
+        {
+          "file": "sounds/ThreeCommas.mp3",
+          "label": "Three commas. (Russ)",
+          "sha256": "2f183c9e6db3cf5b45345872ed905e4f99bbff38725606c852afe446bb523355"
         }
       ]
     },
