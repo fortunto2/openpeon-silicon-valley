@@ -1,68 +1,53 @@
 # Silicon Valley Sound Pack
 
-[CESP 1.0](https://openpeon.com/create) sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) with quotes from **Silicon Valley** (Кремниевая долина).
+[CESP 1.0](https://openpeon.com/create) sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) with quotes from **Silicon Valley**.
 
-## 64 sounds
+Russian dub by «Кубик в кубике».
 
-- **18 English** — Erlich Bachman, Gilfoyle, Russ Hanneman, Jian Yang
-- **40 Russian** — dubbed by «Кубик в кубике», best moments, coding-themed phrases
+## Category philosophy
 
-### Sample quotes
+- **`session.start`** — the biggest category. Energetic, expressive, memorable lines that set the mood when you open a session. Swearing welcome — this is the "hello" moment.
+- **`task.complete`** — celebratory, satisfying lines. "That's what the fuck I do", "Заебись".
+- **`task.acknowledge`** — calm confirmations. "I like it", "Вот именно".
+- **`task.error`** — kept minimal (5 sounds). Only genuine "something broke" reactions. No expressive swearing here — those go to `session.start`.
+- **`input.required`** — attention-grabbers. "Eric Bachman is a dead", "В душе не ебу".
+- **`resource.limit`** — despair and limits. "Not the doors of a billionaire", "Положение хреновое".
+- **`user.spam`** — kept minimal (3-4 sounds). Reserved for actual annoyance: "Говнюк", "Ты чё творишь". Expressive swearing moved to `session.start`.
 
-| Category | Examples |
-|---|---|
-| `session.start` | "This guy fucks!", "Добро пожаловать в долину", "Новый интернет" |
-| `task.acknowledge` | "Three commas.", "Вот именно", "Я решил, слышишь", "Не усну пока не закончу" |
-| `task.complete` | "That's what the fuck I do.", "Заебись", "Победитель с большим отрывом" |
-| `task.error` | "Holy shit.", "Проекту конец", "Ну вот опять", "Это бред" |
-| `input.required` | "Eric Bachman is a dead.", "В душе не ебу", "Что происходит" |
-| `resource.limit` | "These are not the doors of a billionaire.", "Положение хреновое" |
-| `user.spam` | "You just brought piss to a shit fight.", "Нахуй пошёл", "Бедное мудачьё" |
+## Categories breakdown
+
+| Category | Sounds | Design intent |
+|---|---|---|
+| `session.start` | 22 | Loud, expressive, sets the mood |
+| `task.acknowledge` | 8 | Calm confirmations |
+| `task.complete` | 14 | Celebration |
+| `task.error` | 5 | Minimal — genuine error reactions only |
+| `input.required` | 5 | Attention-grabbers |
+| `resource.limit` | 7 | Despair |
+| `user.spam` | 4 | Minimal — only actual annoyance |
+| **Total** | **65** | |
+
+## Characters
+
+**English:** Erlich Bachman, Bertram Gilfoyle, Russ Hanneman, Jian Yang
+
+**Russian (dubbed by «Кубик в кубике»):** Richard Hendricks, Erlich Bachman, Gilfoyle, Dinesh, Russ Hanneman
 
 ## Install
-
-### Option 1: One-liner (recommended)
 
 ```bash
 git clone https://github.com/fortunto2/openpeon-silicon-valley.git \
   ~/.claude/hooks/peon-ping/packs/silicon_valley
-```
-
-Then activate:
-
-```bash
 peon packs use silicon_valley
 ```
 
-### Option 2: If peon-ping not installed yet
-
-Install [peon-ping](https://github.com/PeonPing/peon-ping) first:
+If peon-ping is not installed yet:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/PeonPing/peon-ping/main/install.sh | bash
 ```
 
-Then clone this pack:
-
-```bash
-git clone https://github.com/fortunto2/openpeon-silicon-valley.git \
-  ~/.claude/hooks/peon-ping/packs/silicon_valley
-peon packs use silicon_valley
-```
-
-### Option 3: Manual copy
-
-```bash
-git clone https://github.com/fortunto2/openpeon-silicon-valley.git /tmp/sv-pack
-cp -r /tmp/sv-pack/sounds /tmp/sv-pack/openpeon.json \
-  ~/.claude/hooks/peon-ping/packs/silicon_valley/
-rm -rf /tmp/sv-pack
-peon packs use silicon_valley
-```
-
-### Homebrew / ~/.openpeon installs
-
-If peon-ping was installed via Homebrew, packs live in `~/.openpeon/packs/`:
+For Homebrew installs (packs live in `~/.openpeon/packs/`):
 
 ```bash
 git clone https://github.com/fortunto2/openpeon-silicon-valley.git \
@@ -83,25 +68,6 @@ peon preview session.start   # play a session.start sound
 ```bash
 cd ~/.claude/hooks/peon-ping/packs/silicon_valley && git pull
 ```
-
-## Categories breakdown
-
-| Category | EN | RU | Total |
-|---|---|---|---|
-| `session.start` | 3 | 12 | 15 |
-| `task.acknowledge` | 2 | 6 | 8 |
-| `task.complete` | 4 | 10 | 14 |
-| `task.error` | 3 | 5 | 8 |
-| `input.required` | 3 | 2 | 5 |
-| `resource.limit` | 2 | 5 | 7 |
-| `user.spam` | 2 | 5 | 7 |
-| **Total** | **19** | **45** | **64** |
-
-## Characters
-
-**English:** Erlich Bachman, Bertram Gilfoyle, Russ Hanneman, Jian Yang
-
-**Russian (dubbed by «Кубик в кубике»):** Ричард Хендрикс, Эрлих Бахман, Гилфойл, Динеш, Расс Ханнеман
 
 ## License
 
