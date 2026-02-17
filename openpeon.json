@@ -1,8 +1,8 @@
 {
   "cesp_version": "1.0",
   "name": "silicon_valley",
-  "display_name": "Silicon Valley (HBO)",
-  "version": "2.1.0",
+  "display_name": "Silicon Valley",
+  "version": "2.2.0",
   "author": {
     "name": "rustam",
     "github": "fortunto2"
@@ -66,6 +66,26 @@
           "file": "sounds/ne_usnu.mp3",
           "label": "Не усну пока не закончу (Ричард)",
           "sha256": "66ac404c2dfcce4e63e1fb2d7216df287b2fa7095c26f667b9912171ce6e8752"
+        },
+        {
+          "file": "sounds/ne_mozhet_byt.mp3",
+          "label": "Не может быть (Ричард)",
+          "sha256": "144a81e1646db0d1ff59d147d53837bcaeed0dd8b43e4902e278d01085b63b3c"
+        },
+        {
+          "file": "sounds/03_ni_figa_sebe.mp3",
+          "label": "Ни фига себе (Ричард)",
+          "sha256": "5a2b638a95b938e972aef62c0b05a2bc27a296e9d7d28f0979c4505026782bb8"
+        },
+        {
+          "file": "sounds/zaebs_short.mp3",
+          "label": "Заебись! (Эрлих)",
+          "sha256": "4ed5b04415599e7c8d1412803e18e192746a4a3b5d136aa26526da07468e02ee"
+        },
+        {
+          "file": "sounds/da_mne_nasrat.mp3",
+          "label": "Да мне насрать (Эрлих)",
+          "sha256": "03ea524c3818f5a38b871ffe4fa8de5435d46886a8e50215622f30015649ad57"
         }
       ]
     },
@@ -205,11 +225,6 @@
           "sha256": "bd17a7b0103c5850c125c14294b9d29511cf6e2ece31d4f46b4362ca51e5a08b"
         },
         {
-          "file": "sounds/03_ni_figa_sebe.mp3",
-          "label": "Ни фига себе (Ричард)",
-          "sha256": "5a2b638a95b938e972aef62c0b05a2bc27a296e9d7d28f0979c4505026782bb8"
-        },
-        {
           "file": "sounds/04_proektu_konets.mp3",
           "label": "Проекту конец",
           "sha256": "04a3a40ce0fbd4d5ae49e6bcddf1f26f9191a5d6e8f555b05e4e5d76cd24bcb6"
@@ -225,29 +240,14 @@
           "sha256": "2d0ef919b3f6e09eae63b92bb37c684d74e6cf2b2fe31b5d03c61834b17780b2"
         },
         {
-          "file": "sounds/ne_mozhet_byt.mp3",
-          "label": "Не может быть (Ричард)",
-          "sha256": "144a81e1646db0d1ff59d147d53837bcaeed0dd8b43e4902e278d01085b63b3c"
-        },
-        {
           "file": "sounds/eto_bred.mp3",
           "label": "Это бред (Ричард)",
           "sha256": "e89541a5a953427f66ee7d629039e5826c8e2f83297c0888ee92803362da6998"
         },
         {
-          "file": "sounds/menya_uvolili.mp3",
-          "label": "Меня уволили",
-          "sha256": "faebdaf7be20691af96006954a944ace0c4937e0466f3ad0257272f1477e9bbf"
-        },
-        {
           "file": "sounds/yob_tvoyu_mat.mp3",
           "label": "Ёб твою мать",
           "sha256": "54ece1cb3c6dfd39b5fc71c350e91a8e0cc0021acd4b06163307fc7cf7f0d1ed"
-        },
-        {
-          "file": "sounds/hrenovaya_ideya.mp3",
-          "label": "Хреновая идея (Ричард)",
-          "sha256": "9e7a239b373409e75288d0af2aa8dad9ced47cd7cde20d4a23b4855fa8f3b266"
         }
       ]
     },

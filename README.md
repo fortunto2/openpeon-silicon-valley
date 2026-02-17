@@ -1,11 +1,11 @@
 # Silicon Valley Sound Pack
 
-[CESP 1.0](https://openpeon.com/create) sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) with quotes from HBO's **Silicon Valley** (Кремниевая долина).
+[CESP 1.0](https://openpeon.com/create) sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) with quotes from **Silicon Valley** (Кремниевая долина).
 
-## 58 sounds
+## 64 sounds
 
 - **18 English** — Erlich Bachman, Gilfoyle, Russ Hanneman, Jian Yang
-- **40 Russian** (dubbed) — best moments, coding-themed phrases
+- **40 Russian** — dubbed by «Кубик в кубике», best moments, coding-themed phrases
 
 ### Sample quotes
 
@@ -14,7 +14,7 @@
 | `session.start` | "This guy fucks!", "Добро пожаловать в долину", "Новый интернет" |
 | `task.acknowledge` | "Three commas.", "Вот именно", "Я решил, слышишь", "Не усну пока не закончу" |
 | `task.complete` | "That's what the fuck I do.", "Заебись", "Победитель с большим отрывом" |
-| `task.error` | "Holy shit.", "Ёбушки-воробушки", "Проекту конец", "Хреновая идея" |
+| `task.error` | "Holy shit.", "Проекту конец", "Ну вот опять", "Это бред" |
 | `input.required` | "Eric Bachman is a dead.", "В душе не ебу", "Что происходит" |
 | `resource.limit` | "These are not the doors of a billionaire.", "Положение хреновое" |
 | `user.spam` | "You just brought piss to a shit fight.", "Нахуй пошёл", "Бедное мудачьё" |
@@ -88,21 +88,21 @@ cd ~/.claude/hooks/peon-ping/packs/silicon_valley && git pull
 
 | Category | EN | RU | Total |
 |---|---|---|---|
-| `session.start` | 3 | 4 | 7 |
-| `task.acknowledge` | 2 | 7 | 9 |
-| `task.complete` | 3 | 6 | 9 |
-| `task.error` | 3 | 11 | 14 |
+| `session.start` | 3 | 12 | 15 |
+| `task.acknowledge` | 2 | 6 | 8 |
+| `task.complete` | 4 | 10 | 14 |
+| `task.error` | 3 | 5 | 8 |
 | `input.required` | 3 | 2 | 5 |
 | `resource.limit` | 2 | 5 | 7 |
 | `user.spam` | 2 | 5 | 7 |
-| **Total** | **18** | **40** | **58** |
+| **Total** | **19** | **45** | **64** |
 
 ## Characters
 
 **English:** Erlich Bachman, Bertram Gilfoyle, Russ Hanneman, Jian Yang
 
-**Russian (dubbed):** Ричард Хендрикс, Эрлих Бахман, Гилфойл, Динеш, Расс Ханнеман
+**Russian (dubbed by «Кубик в кубике»):** Ричард Хендрикс, Эрлих Бахман, Гилфойл, Динеш, Расс Ханнеман
 
 ## License
 
-CC-BY-NC-4.0 — audio clips from HBO's Silicon Valley, used for personal/non-commercial purposes.
+CC-BY-NC-4.0 — audio clips from Silicon Valley, used for personal/non-commercial purposes.
