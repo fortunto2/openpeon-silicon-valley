@@ -86,6 +86,41 @@
           "file": "sounds/da_mne_nasrat.mp3",
           "label": "Да мне насрать (Эрлих)",
           "sha256": "03ea524c3818f5a38b871ffe4fa8de5435d46886a8e50215622f30015649ad57"
+        },
+        {
+          "file": "sounds/HolyShit.mp3",
+          "label": "Holy shit. (Gilfoyle)",
+          "sha256": "34ad896691c36174dd140c6f44d3a91749e276e17593d39bcb7099583e1cae20"
+        },
+        {
+          "file": "sounds/WtfWasThat.mp3",
+          "label": "What the fuck was that? (Gilfoyle)",
+          "sha256": "bd17a7b0103c5850c125c14294b9d29511cf6e2ece31d4f46b4362ca51e5a08b"
+        },
+        {
+          "file": "sounds/yob_tvoyu_mat.mp3",
+          "label": "Ёб твою мать",
+          "sha256": "54ece1cb3c6dfd39b5fc71c350e91a8e0cc0021acd4b06163307fc7cf7f0d1ed"
+        },
+        {
+          "file": "sounds/FuckMyself.mp3",
+          "label": "I've been known to fuck myself. (Erlich)",
+          "sha256": "8fcf74fc9da48754099337fcefbb8d039e2eecf22fdf10fa5d7e00ed0e395591"
+        },
+        {
+          "file": "sounds/PissShitFight.mp3",
+          "label": "You just brought piss to a shit fight. (Erlich)",
+          "sha256": "0c4fbe368df6ea97434ee8a061faa39835cd93a3e866bb8bdf977cb963bb20e6"
+        },
+        {
+          "file": "sounds/10_bednoe_mudachyo.mp3",
+          "label": "Бедное мудачьё (Гилфойл)",
+          "sha256": "9214f4a1988d09a37e283edef2539eea6a11b0719e9f4848f39d9015306037d8"
+        },
+        {
+          "file": "sounds/nahuy_poshyol.mp3",
+          "label": "Нахуй пошёл (Эрлих)",
+          "sha256": "1b038e064a53d7fde07129b484129418c3525a6a9e49098d4d2700c9df5b61a6"
         }
       ]
     },
@@ -215,16 +250,6 @@
           "sha256": "31559116004505a23d829e4d1905ae532c92be23a29b0289c11dc2b712ebaf79"
         },
         {
-          "file": "sounds/HolyShit.mp3",
-          "label": "Holy shit. (Gilfoyle)",
-          "sha256": "34ad896691c36174dd140c6f44d3a91749e276e17593d39bcb7099583e1cae20"
-        },
-        {
-          "file": "sounds/WtfWasThat.mp3",
-          "label": "What the fuck was that? (Gilfoyle)",
-          "sha256": "bd17a7b0103c5850c125c14294b9d29511cf6e2ece31d4f46b4362ca51e5a08b"
-        },
-        {
           "file": "sounds/04_proektu_konets.mp3",
           "label": "Проекту конец",
           "sha256": "04a3a40ce0fbd4d5ae49e6bcddf1f26f9191a5d6e8f555b05e4e5d76cd24bcb6"
@@ -243,11 +268,6 @@
           "file": "sounds/eto_bred.mp3",
           "label": "Это бред (Ричард)",
           "sha256": "e89541a5a953427f66ee7d629039e5826c8e2f83297c0888ee92803362da6998"
-        },
-        {
-          "file": "sounds/yob_tvoyu_mat.mp3",
-          "label": "Ёб твою мать",
-          "sha256": "54ece1cb3c6dfd39b5fc71c350e91a8e0cc0021acd4b06163307fc7cf7f0d1ed"
         }
       ]
     },
@@ -322,24 +342,9 @@
     "user.spam": {
       "sounds": [
         {
-          "file": "sounds/FuckMyself.mp3",
-          "label": "I've been known to fuck myself. (Erlich)",
-          "sha256": "8fcf74fc9da48754099337fcefbb8d039e2eecf22fdf10fa5d7e00ed0e395591"
-        },
-        {
-          "file": "sounds/PissShitFight.mp3",
-          "label": "You just brought piss to a shit fight. (Erlich)",
-          "sha256": "0c4fbe368df6ea97434ee8a061faa39835cd93a3e866bb8bdf977cb963bb20e6"
-        },
-        {
           "file": "sounds/07_govnyuk.mp3",
           "label": "Говнюк",
           "sha256": "298f41d9e894f56f25d48cff6eacd5fa989db321ae9d42fb44a8fee2aa32948c"
-        },
-        {
-          "file": "sounds/10_bednoe_mudachyo.mp3",
-          "label": "Бедное мудачьё (Гилфойл)",
-          "sha256": "9214f4a1988d09a37e283edef2539eea6a11b0719e9f4848f39d9015306037d8"
         },
         {
           "file": "sounds/nahuy_poshyol.mp3",
